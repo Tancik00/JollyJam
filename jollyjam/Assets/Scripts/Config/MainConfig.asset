@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acbc1fb81d367674684d523f3605c72f, type: 3}
+  m_Name: MainConfig
+  m_EditorClassIdentifier: 
+  cameraCoeficient: 0.05
+  backgroundSizeCoeficient: 0.15
+  levels:
+  - {fileID: 3663515982115785232, guid: f808bfa717400ef469a299f375f0b7ff, type: 3}
+  - {fileID: 3663515982115785232, guid: f08824af6c7c806409ff3e008170a178, type: 3}
+  - {fileID: 3663515982115785232, guid: 363b8e1c366fd2043a69052691b138ad, type: 3}
+  - {fileID: 3663515982115785232, guid: 9416446428e959e46827d000a18c0295, type: 3}
+  - {fileID: 3663515982115785232, guid: a080c296fa02dbf46b2b916822a58d84, type: 3}
+  - {fileID: 3663515982115785232, guid: d95edf2ca0eb27a4aa0b2219e8f71663, type: 3}
+  - {fileID: 3663515982115785232, guid: ce2270354819fa54782adc0214575145, type: 3}
+  - {fileID: 3663515982115785232, guid: 9e77edca75d48ac49a51237521a69b91, type: 3}
+  - {fileID: 3663515982115785232, guid: addb3965f8f218f459d9d4b4bee7f2ff, type: 3}
+  - {fileID: 3663515982115785232, guid: 73d9343a7f84c1f4ba2bfde0ef335159, type: 3}
+  - {fileID: 3663515982115785232, guid: 663f9032a56f5c4409627da5a84f3dd5, type: 3}
+  - {fileID: 3663515982115785232, guid: ac07dff5f7ee37746899932f4fe301aa, type: 3}
+  - {fileID: 3663515982115785232, guid: a498142c7d25653489194049d1601d96, type: 3}
+  - {fileID: 3663515982115785232, guid: bee32a918e8442b488f48e3f8aa97cc6, type: 3}
+  - {fileID: 3663515982115785232, guid: 47193ec2a75b2b146a7bca0dfd8404f8, type: 3}
+  skins:
+  - {fileID: 11400000, guid: 14b6d422179257145aa12fa96c19dd05, type: 2}
+  - {fileID: 11400000, guid: 57d750e171b90fd42b1cb799d6337e7c, type: 2}
+  - {fileID: 11400000, guid: 06c6ae62a610a074f8f9fdefe01d91ae, type: 2}
+  - {fileID: 11400000, guid: 70acefec2114bd34389a96efba487a8d, type: 2}
+  - {fileID: 11400000, guid: 2c9678e242ae7ad4b80c3dc24a3b8d7e, type: 2}
+  TextAsset: {fileID: 4900000, guid: a653bfd297f8e6f4284fc8298dedbd3d, type: 3}
+  SO: {fileID: 11400000}

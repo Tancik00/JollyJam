@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd0946941d143368f3dfc62b7c1058f, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  obstacle: {fileID: 21300000, guid: 71d83080fb0bd1f4e81d1f065d0cf0b6, type: 3}
+  box: {fileID: 21300000, guid: 63c6801336e5a5a488b3c2901fbcf332, type: 3}
+  changingBox: {fileID: 21300000, guid: 5d084ee0023464545b7edbb8bd2a5e81, type: 3}
+  bot: {fileID: 21300000, guid: 564f0d37dae12bf4795a5bad98ebc5ad, type: 3}
+  filledBox: {fileID: 21300000, guid: 13d105d1db9d9634090bb3e7afa2766c, type: 3}
+  changedBox: {fileID: 21300000, guid: 71d83080fb0bd1f4e81d1f065d0cf0b6, type: 3}
+  background: {fileID: 21300000, guid: 6b96f39d9ce22d9498277ab6e9e7db11, type: 3}
+  jamSpriteses:
+  - spriteDirection: 0
+    jamSprite: {fileID: 21300000, guid: 670b3316a5ab9fb4dabce1a5681950b1, type: 3}
+  - spriteDirection: 1
+    jamSprite: {fileID: 21300000, guid: b1224250b7100de4facad7dad2f6acf1, type: 3}
+  - spriteDirection: 2
+    jamSprite: {fileID: 21300000, guid: 9ee11b62d4366c1489f7319871417883, type: 3}
+  - spriteDirection: 3
+    jamSprite: {fileID: 21300000, guid: 37c3a6a58e4d0ef479c0caa0b3f631a9, type: 3}
+  - spriteDirection: 4
+    jamSprite: {fileID: 21300000, guid: b08bee704224482439f8b33fd0bf9d8b, type: 3}
+  - spriteDirection: 5
+    jamSprite: {fileID: 21300000, guid: 1b8aaacde9f11504d87add92dc4d2145, type: 3}
+  - spriteDirection: 6
+    jamSprite: {fileID: 21300000, guid: 1ef1429143694c5429df6956e6bbedd6, type: 3}
+  - spriteDirection: 7
+    jamSprite: {fileID: 21300000, guid: 5293443dbf311ff47bf4344070b7f252, type: 3}
+  - spriteDirection: 8
+    jamSprite: {fileID: 21300000, guid: 3da8e9cbaa8546c4f9c1a4e53efbfb4b, type: 3}
+  - spriteDirection: 9
+    jamSprite: {fileID: 21300000, guid: 357a70bb3f43a99489686b757bd2db19, type: 3}
+  - spriteDirection: 10
+    jamSprite: {fileID: 21300000, guid: b8ff5bad5f82b1a4d922364732ddcd61, type: 3}
+  - spriteDirection: 11
+    jamSprite: {fileID: 21300000, guid: 1770c030371a24f46b97221c1ed18111, type: 3}
+  - spriteDirection: 12
+    jamSprite: {fileID: 21300000, guid: bced2bad026182840881084928051684, type: 3}
+  - spriteDirection: 13
+    jamSprite: {fileID: 21300000, guid: 46cafc71dbbf0b94e8d80fa53e1ee2df, type: 3}
+  - spriteDirection: 14
+    jamSprite: {fileID: 21300000, guid: 6e158d9816839034a8916b8b048ae6af, type: 3}
+  - spriteDirection: 15
+    jamSprite: {fileID: 21300000, guid: 7f86dbb473200514e8a4b32ef84ef660, type: 3}
+  decor:
+  - {fileID: 7514230556580311943, guid: d687531be393f924aabe4e0ffb9f4ce8, type: 3}
+  - {fileID: 1378759436386875337, guid: 2910a01fa289bbd43ae718dd77366565, type: 3}
+  - {fileID: 4054566564119538655, guid: 86fb561344fb5264e95492f44775bcba, type: 3}
+  - {fileID: 1007251005267242075, guid: dd5ba887fe576b74ebd4614f25ed577c, type: 3}
+  - {fileID: 4809401291473147906, guid: 0ba24c5fdbf343d48b8384d67acc1c6e, type: 3}

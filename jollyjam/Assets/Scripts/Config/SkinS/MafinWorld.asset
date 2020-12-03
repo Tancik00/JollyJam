@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd0946941d143368f3dfc62b7c1058f, type: 3}
+  m_Name: MafinWorld
+  m_EditorClassIdentifier: 
+  obstacle: {fileID: 21300000, guid: 6c65e042aa381ac479ec56251feb76e4, type: 3}
+  box: {fileID: 21300000, guid: f46ea50030754d94abcb5af96b2b6f37, type: 3}
+  changingBox: {fileID: 21300000, guid: 72c4f85e02ab3bf4289821666b06eab6, type: 3}
+  bot: {fileID: 21300000, guid: 564f0d37dae12bf4795a5bad98ebc5ad, type: 3}
+  filledBox: {fileID: 21300000, guid: 84c164222f19369408b77a9a0a19e85a, type: 3}
+  changedBox: {fileID: 21300000, guid: 6c65e042aa381ac479ec56251feb76e4, type: 3}
+  background: {fileID: 21300000, guid: 1c434e700e8b57545ba044d896c98b32, type: 3}

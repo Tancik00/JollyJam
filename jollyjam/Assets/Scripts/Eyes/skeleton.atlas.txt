@@ -1,0 +1,468 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry/angry_0000_l_eyebrow-copy-2
+  rotate: true
+  xy: 924, 297
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+angry/angry_0001_Layer-0-copy-7
+  rotate: true
+  xy: 1374, 777
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+fishy/fishy_0001_Layer-0-copy-7
+  rotate: true
+  xy: 1374, 777
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+happy/happy_0001_Layer-0-copy-7
+  rotate: true
+  xy: 1374, 777
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+worried/worried_0001_Layer-0-copy-7
+  rotate: true
+  xy: 1374, 777
+  size: 85, 74
+  orig: 85, 74
+  offset: 0, 0
+  index: -1
+angry/angry_0011_r_eyebrow-copy-2
+  rotate: false
+  xy: 1226, 703
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+angry/angry_0012_r_eyelid-copy
+  rotate: false
+  xy: 1022, 509
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+angry/angry_0013_r_reflex
+  rotate: false
+  xy: 1374, 864
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+happy/happy_0013_r_reflex
+  rotate: false
+  xy: 1374, 864
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+skin1/skin1_0013_r_reflex
+  rotate: false
+  xy: 1374, 864
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+worried/worried_0013_r_reflex
+  rotate: false
+  xy: 1374, 864
+  size: 82, 80
+  orig: 82, 80
+  offset: 0, 0
+  index: -1
+angry/angry_0014_r_pupil
+  rotate: false
+  xy: 2015, 993
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+angry/angry_0015_r_eye-copy-2
+  rotate: false
+  xy: 1226, 876
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+fishy/fishy_0015_r_eye-copy-2
+  rotate: false
+  xy: 1226, 876
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+happy/happy_0015_r_eye-copy-2
+  rotate: false
+  xy: 1226, 876
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+skin1/skin1_0015_r_eye-copy-2
+  rotate: false
+  xy: 1226, 876
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+worried/worried_0015_r_eye-copy-2
+  rotate: false
+  xy: 1226, 876
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+angry/angry_0017_l_reflex
+  rotate: true
+  xy: 1458, 874
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+fishy/fishy_0017_l_reflex
+  rotate: true
+  xy: 1458, 874
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+happy/happy_0017_l_reflex
+  rotate: true
+  xy: 1458, 874
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+skin1/skin1_0017_l_reflex
+  rotate: true
+  xy: 1458, 874
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+worried/worried_0017_l_reflex
+  rotate: true
+  xy: 1458, 874
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+angry/angry_0018_l_pupil
+  rotate: true
+  xy: 1528, 874
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+fishy/fishy_0000_l_eyebrow-copy-2
+  rotate: false
+  xy: 251, 7
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+fishy/fishy_0011_r_eyebrow-copy-2
+  rotate: false
+  xy: 62, 3
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+fishy/fishy_0012_r_eyelid-copy
+  rotate: true
+  xy: 1315, 774
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+fishy/fishy_0014_r_pupil
+  rotate: false
+  xy: 924, 266
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+fishy/fishy_0018_l_pupil
+  rotate: false
+  xy: 513, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+happy/happy_0000_l_eyebrow-copy-2
+  rotate: false
+  xy: 309, 7
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+happy/happy_0011_r_eyebrow-copy-2
+  rotate: true
+  xy: 966, 357
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+happy/happy_0012_r_eyelid-copy
+  rotate: false
+  xy: 1622, 965
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+happy/happy_0014_r_pupil
+  rotate: false
+  xy: 483, 15
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+happy/happy_0018_l_pupil
+  rotate: false
+  xy: 542, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+happy/happy_0019_l_eye-copy-2
+  rotate: false
+  xy: 1022, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skin1/skin1_0019_l_eye-copy-2
+  rotate: false
+  xy: 1022, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+worried/worried_0019_l_eye-copy-2
+  rotate: false
+  xy: 1022, 568
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+skin1/dizzy
+  rotate: false
+  xy: 818, 355
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1
+skin1/heart
+  rotate: false
+  xy: 818, 503
+  size: 202, 193
+  orig: 202, 193
+  offset: 0, 0
+  index: -1
+skin1/obraz
+  rotate: false
+  xy: 1528, 903
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+skin1/skin1_0000_l_eyebrow-copy-2
+  rotate: false
+  xy: 367, 7
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+skin1/skin1_0001_Layer-0-copy-6
+  rotate: false
+  xy: 818, 54
+  size: 73, 92
+  orig: 73, 92
+  offset: 0, 0
+  index: -1
+skin1/skin1_0002_Layer-0-copy-8
+  rotate: true
+  xy: 1152, 570
+  size: 126, 69
+  orig: 126, 69
+  offset: 0, 0
+  index: -1
+skin1/skin1_0005_Layer-0-copy-11
+  rotate: false
+  xy: 1510, 953
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+skin1/skin1_0006_Layer-0-copy-12
+  rotate: false
+  xy: 1928, 959
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+skin1/skin1_0008_Layer-0-copy-14
+  rotate: false
+  xy: 1374, 946
+  size: 134, 76
+  orig: 134, 76
+  offset: 0, 0
+  index: -1
+skin1/skin1_0011_r_eyebrow-copy-2
+  rotate: false
+  xy: 125, 3
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+skin1/skin1_0012_r_eyelid-copy
+  rotate: false
+  xy: 1724, 965
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+skin1/skin1_0014_r_pupil
+  rotate: false
+  xy: 1573, 922
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+skin1/skin1_0016_l_eyelid-copy
+  rotate: true
+  xy: 966, 420
+  size: 81, 49
+  orig: 81, 49
+  offset: 0, 0
+  index: -1
+skin1/skin1_0018_l_pupil
+  rotate: false
+  xy: 571, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+skin1/tear
+  rotate: true
+  xy: 2, 2
+  size: 42, 58
+  orig: 42, 58
+  offset: 0, 0
+  index: -1
+skin1/tongue
+  rotate: false
+  xy: 1226, 746
+  size: 87, 128
+  orig: 87, 128
+  offset: 0, 0
+  index: -1
+skin1/z
+  rotate: false
+  xy: 818, 148
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+star/red zebra
+  rotate: false
+  xy: 818, 251
+  size: 104, 102
+  orig: 104, 102
+  offset: 0, 0
+  index: -1
+star/star_0000_Layer-1-copy-3
+  rotate: false
+  xy: 2, 698
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0001_Layer-1-copy-9
+  rotate: false
+  xy: 2, 372
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0002_Layer-1-copy-12
+  rotate: false
+  xy: 410, 698
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0003_Layer-1-copy-15
+  rotate: false
+  xy: 2, 46
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0004_Layer-1-copy-18
+  rotate: false
+  xy: 410, 372
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0005_Layer-1-copy
+  rotate: false
+  xy: 818, 698
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+star/star_0006_Layer-1-copy
+  rotate: false
+  xy: 410, 46
+  size: 406, 324
+  orig: 406, 324
+  offset: 0, 0
+  index: -1
+worried/worried_0000_l_eyebrow-copy-2
+  rotate: false
+  xy: 425, 7
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+worried/worried_0011_r_eyebrow-copy-2
+  rotate: false
+  xy: 188, 3
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+worried/worried_0012_r_eyelid-copy
+  rotate: false
+  xy: 1826, 965
+  size: 100, 57
+  orig: 100, 57
+  offset: 0, 0
+  index: -1
+worried/worried_0014_r_pupil
+  rotate: false
+  xy: 2015, 962
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+worried/worried_0018_l_pupil
+  rotate: false
+  xy: 600, 15
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - finish
+  - nextLevel
+  - reset
+  - destroy
+  - road
+  - box
+  - ball
+  - obstacle
+  - spawn
+  - changingBox
+  - sound
+  - vibration
+  - botSpawn
+  - bot
+  - maxHeight
+  - popupSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - garbageCollector
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2253011629
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
